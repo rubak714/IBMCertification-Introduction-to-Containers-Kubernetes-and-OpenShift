@@ -1,7 +1,4 @@
 ## 🔗 Course: IBM CC0201EN - Introduction to Containers, Kubernetes, and OpenShift
-
-### Platform: IBM SkillsBuild / Coursera
-
 ---
 
 ## 🔗 Overview
